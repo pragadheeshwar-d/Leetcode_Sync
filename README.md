@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2784-check-if-array-is-good) |
 ## Greedy
 |  |
 | ------- |
@@ -16,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
 | ------- |
