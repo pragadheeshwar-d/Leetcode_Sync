@@ -37,9 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0278-first-bad-version) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
