@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
