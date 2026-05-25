@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1920-build-array-from-permutation](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1920-build-array-from-permutation) |
 | [2784-check-if-array-is-good](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2784-check-if-array-is-good) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3668-restore-finishing-order) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
