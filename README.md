@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3120-count-the-number-of-special-characters-i) |
