@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0414-third-maximum-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0414-third-maximum-number) |
@@ -117,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
