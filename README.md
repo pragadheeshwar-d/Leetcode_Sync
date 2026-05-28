@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2784-check-if-array-is-good](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2784-check-if-array-is-good) |
 | [2942-find-words-containing-character](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2942-find-words-containing-character) |
+| [3093-longest-common-suffix-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3093-longest-common-suffix-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3668-restore-finishing-order) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2942-find-words-containing-character) |
+| [3093-longest-common-suffix-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Bit Manipulation
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
