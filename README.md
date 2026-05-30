@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0338-counting-bits) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
