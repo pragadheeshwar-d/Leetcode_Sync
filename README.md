@@ -163,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1025-divisor-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
