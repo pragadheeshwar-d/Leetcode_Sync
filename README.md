@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3668-restore-finishing-order](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3668-restore-finishing-order) |
 ## Greedy
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3161-block-placement-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3161-block-placement-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Trie
 |  |
 | ------- |
