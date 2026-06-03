@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1920-build-array-from-permutation](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1920-build-array-from-permutation) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3161-block-placement-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting Sort
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1025-divisor-game) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
 ## Sliding Window
 |  |
