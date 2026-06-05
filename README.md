@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Tree
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
 |  |
 | ------- |
