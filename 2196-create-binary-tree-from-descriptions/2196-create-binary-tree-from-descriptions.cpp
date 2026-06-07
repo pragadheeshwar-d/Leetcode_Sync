@@ -12,38 +12,58 @@
 class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& descriptions) {
-        unordered_map<int, TreeNode*> nodeMap;
-        unordered_set<int> children;
 
-        for (const auto& desc : descriptions) {
-            int parentVal = desc[0];
-            int childVal = desc[1];
-            bool isLeft = desc[2];
+        static const auto fast_io = [](){
+            std::ios::sync_with_stdio(false);
+            std::cin.tie(nullptr);
+            return nullptr;
+        }();
 
-            if (nodeMap.find(parentVal) == nodeMap.end()) {
-                nodeMap[parentVal] = new TreeNode(parentVal);
+        static TreeNode nodes[100001] = {};
+        static int is_child[100001] = { false };
+        static int generation[100001] = { 0 };
+        static int generation_id = 0;
+
+        ++generation_id;
+
+        for(const auto& v : descriptions){
+            const int parent = v[0], child = v[1];
+            const bool left_child = v[2];
+            if(generation[parent] != generation_id){
+                TreeNode* temp = &nodes[parent];
+                temp->left = temp->right = nullptr;
+                temp->val = parent;
+                generation[parent] = generation_id;
             }
-
-            if (nodeMap.find(childVal) == nodeMap.end()) {
-                nodeMap[childVal] = new TreeNode(childVal);
+            if(generation[child] != generation_id){
+                TreeNode* temp = &nodes[child];
+                temp->left = temp->right = nullptr;
+                temp->val = child;
+                generation[child] = generation_id;
             }
-
-            if (isLeft) {
-                nodeMap[parentVal]->left = nodeMap[childVal];
+            TreeNode* parent_node = &nodes[parent];
+            TreeNode* child_node = &nodes[child];
+            if(left_child){
+                parent_node->left = child_node;
             } else {
-                nodeMap[parentVal]->right = nodeMap[childVal];
+                parent_node->right = child_node;
             }
-
-            children.insert(childVal);
+            is_child[child] = true;
+        }
+        int root = -1;
+        for(const auto& v : descriptions){
+            const int parent = v[0];
+            if(!is_child[parent]){
+                root = parent;
+                break;
+            }
+        }
+        for(const auto& v : descriptions){
+            const int parent = v[0], child = v[1];
+            is_child[parent] = false;
+            is_child[child] = false;
         }
 
-        for (const auto& desc : descriptions) {
-            int parentVal = desc[0];
-            if (children.find(parentVal) == children.end()) {
-                return nodeMap[parentVal];
-            }
-        }
-
-        return nullptr;
+        return &nodes[root];
     }
 };
