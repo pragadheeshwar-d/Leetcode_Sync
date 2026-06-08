@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0509-fibonacci-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0338-counting-bits) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
