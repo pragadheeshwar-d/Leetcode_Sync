@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0005-longest-palindromic-substring) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0516-longest-palindromic-subsequence) |
 | [0740-delete-and-earn](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1025-divisor-game) |
