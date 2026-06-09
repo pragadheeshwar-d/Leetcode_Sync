@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0005-longest-palindromic-substring) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1143-longest-common-subsequence) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0070-climbing-stairs) |
