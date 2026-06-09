@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0740-delete-and-earn) |
