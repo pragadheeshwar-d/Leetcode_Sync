@@ -7,10 +7,10 @@ public:
             sort(grid[i].begin(),grid[i].end());
         }
         int ans=0;
-        for(int i=0;i<n;i++){
+        for(int j=0;j<n;j++){
             int mx=0;
-            for(int j=0;j<m;j++){
-                mx=max(mx,grid[j][i]);
+            for(int i=0;i<m;i++){
+                mx=max(mx,grid[i][j]);
             }
             ans+=mx;
         }
