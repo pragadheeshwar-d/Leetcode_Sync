@@ -1,19 +1,15 @@
 class Solution {
 public:
     string intToRoman(int num) {
-        const vector<pair<int, string>> romanMapping = {
-            {1000, "M"}, {900, "CM"}, {500, "D"}, {400, "CD"},
-            {100, "C"},  {90, "XC"},  {50, "L"},  {40, "XL"},
-            {10, "X"},   {9, "IX"},   {5, "V"},   {4, "IV"},
-            {1, "I"}
-        };
+        static const int values[] = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+        static const string symbols[] = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
         
         string result = "";
         
-        for (const auto& [value, symbol] : romanMapping) {
-            while (num >= value) {
-                result += symbol;
-                num -= value;
+        for (int i = 0; i < 13; ++i) {
+            while (num >= values[i]) {
+                num -= values[i];
+                result += symbols[i];
             }
         }
         
