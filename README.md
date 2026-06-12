@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0740-delete-and-earn) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0367-valid-perfect-square) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1143-longest-common-subsequence) |
