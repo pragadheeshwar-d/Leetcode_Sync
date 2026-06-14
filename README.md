@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -282,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0064-minimum-path-sum) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2500-delete-greatest-value-in-each-row) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
