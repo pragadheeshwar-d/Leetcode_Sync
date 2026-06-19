@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1732-find-the-highest-altitude](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
