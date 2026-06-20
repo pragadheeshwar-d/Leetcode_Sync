@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1840-maximum-building-height) |
 | [1920-build-array-from-permutation](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1840-maximum-building-height](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1840-maximum-building-height) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
