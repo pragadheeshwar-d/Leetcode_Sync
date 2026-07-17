@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3668-restore-finishing-order](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3668-restore-finishing-order) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3620-network-recovery-pathways) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1833-maximum-ice-cream-bars) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Interactive
 |  |
@@ -177,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1840-maximum-building-height) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -362,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3867-sum-of-gcd-of-formed-pairs) |
