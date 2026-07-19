@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0012-integer-to-roman) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0516-longest-palindromic-subsequence) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -428,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
