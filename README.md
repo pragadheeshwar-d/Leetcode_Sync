@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0561-array-partition) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0746-min-cost-climbing-stairs) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0516-longest-palindromic-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1025-divisor-game) |
@@ -345,10 +347,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3161-block-placement-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3691-maximum-total-subarray-value-ii) |
