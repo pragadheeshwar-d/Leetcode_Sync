@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1732-find-the-highest-altitude) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1051-height-checker) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1840-maximum-building-height) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3286-find-a-safe-walk-through-a-grid) |
