@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1840-maximum-building-height) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3312-sorted-gcd-pair-queries) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2942-find-words-containing-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3121-count-the-number-of-special-characters-ii) |
