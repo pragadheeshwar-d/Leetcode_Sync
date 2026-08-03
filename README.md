@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1143-longest-common-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1301-number-of-paths-with-max-score](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1406-stone-game-iii) |
 | [1871-jump-game-vii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1871-jump-game-vii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
 | ------- |
@@ -484,4 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
