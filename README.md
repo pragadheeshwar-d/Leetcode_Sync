@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0337-house-robber-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0337-house-robber-iii) |
+| [0743-network-delay-time](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0322-coin-change) |
+| [0743-network-delay-time](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0506-relative-ranks) |
+| [0743-network-delay-time](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0743-network-delay-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -514,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/1406-stone-game-iii) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
