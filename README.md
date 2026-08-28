@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0389-find-the-difference) |
 | [0740-delete-and-earn](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0740-delete-and-earn) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0628-maximum-product-of-three-numbers) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0455-assign-cookies) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -523,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0743-network-delay-time) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/pragadheeshwar-d/Leetcode_Sync/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
